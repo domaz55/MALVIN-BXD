@@ -7,19 +7,19 @@
 
     "stack": "container",
   "env": {
-      "SESSION_ID": {
+      "SESSION_ID": { malvin~IutCGCzb#vf7zXijNgk8u-L-VACRLreQGDX8hR-UZ8iljYK92148
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
         "value":"",
         "required": true
         
     },
-      "BOT_NAME": {
+      "BOT_NAME": { SWINDLE AI
         "description": "write here your bot name.",
         "required": true,
         "value": "ᴍᴀʟᴠɪɴ xᴅ" 
         
     },
-     "PREFIX": {
+     "PREFIX": {.
        "description": "Bot command prefix, (e.g, . , ! @ etc",
       "value": "."
       "required": true,
@@ -38,13 +38,13 @@
       
    }, 
 
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {263785439377
       "description": "put the owner number for bot.",
       "value": "263714757857"
       "required": true
       
    },
-    "OWNER_NAME": {
+    "OWNER_NAME": {Prince 
       "description": "Enter your name here",
       "value": "",
       "required": true
